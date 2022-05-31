@@ -1,0 +1,61 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0xbCCE3e2EaC302cC2C0ab8FD652F6CAB42a475e24",
+    "txHash": "0x6cbf021d5fd148dceda29761827c4f4ec7692ca6a3d8d80cd50cc9a9fb3f3b99"
+  },
+  "proxies": [
+    {
+      "address": "0xb32F38ea691138a0948F5F4cD690340F0FA3F7c8",
+      "txHash": "0x24b3ccd02df5be6a2f6512a2e59741567cc496496d00177fce7bf3cf46696f89",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4cc0381994a2b4713546bDcB1149Ab4F897636BE",
+      "txHash": "0x38a89d065a3fc31ea6de6b43b92515769afd9525165ce3063f3296996429001c",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "9ecfd720e1952e0232b8425c9d4375e7ea219856867f10a5ef88ad4254602c39": {
+      "address": "0x4D01Ab231Aeb2c8Efa88fEf3d1DA86261247272a",
+      "txHash": "0x159286ee2641ce538734ad7b51ae52dcc3f1a193111381fc4a0a2994d317b8ef",
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "3c9f5ee5561050fa53ae884252ea119bd4d0ff9dc888d184765a082f9e57e60e": {
+      "address": "0xb7856898e34549b9EA88cf45876927aA78963DBF",
+      "txHash": "0x6054e8f804172219f03608754a8f1ca75dc09e8709ed7b7619cc82762a111881",
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "c49202712fa958fd268d38c4a661b0955bf605d11d37275d76a85a45235039f3": {
+      "address": "0xEd9e9C4b4c93770c765c89E03DC16a23a0Ca5BdB",
+      "txHash": "0x99e2137b6361d5bc8855fb2800481629fcc9304438dad3ce3385549ed7168bdf",
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "072481841d90ddeacba2c0bac7f3bbcdd5cff974821515d83248011abd8cf6cb": {
+      "address": "0x401c81eDf887AA471Cd9f20cd6D6665Dfe16a68E",
+      "txHash": "0x0ea6615d529da1b235d1b9192358b04a6cd62e4548b5e71c44b0f9a52a3cea86",
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "4dab3539b2172fedf1179f4478d53a2aa8454077b4a58b419fdce5e082b289de": {
+      "address": "0x2b525C68BFEf08E119017577a7cF4873d8B9221A",
+      "txHash": "0xf01c0902e77eed8b6368afb8692f4599ff296cf79be48bbf0a8191c0fca93d25",
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  }
+}
